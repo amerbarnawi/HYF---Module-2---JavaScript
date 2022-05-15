@@ -1,1 +1,1 @@
-# HYF---Module-2---JavaScript
+# HYF - JavaScript - Homeworks and exercises.
